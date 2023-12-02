@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-### :man_technologist: About me:
+### 👨‍💻: About me:
 
 I'm a budding Full Stack Developer with a passion for IT. My journey began in 2020 when I started learning Python at IT & Business College Ala Too. While studying, I delved into Backend Development, diving into frameworks, databases, and GitHub. In 2021, I deepened my Python knowledge through Algoritmika's Python courses. From May to August 2021, I focused on Django during a college bootcamp, mastering backend development. In September 2021, my interest shifted to Front-end Development. I learned HTML/CSS at Codify, and shortly after, I began my journey in JavaScript. In July 2022, I successfully completed a JavaScript course, delving into React and JavaScript fundamentals. Currently, I'm job hunting and working as a Tech Support at Codify, helping newcomers with web development, particularly in web design. Additionally, I'm developing backend components for projects at my college. I'm dedicated to continuous learning and excited to grow as a Full Stack Developer, creating innovative solutions in the ever-evolving world of technology.
 
