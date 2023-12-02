@@ -25,7 +25,8 @@ I'm a budding Full Stack Developer with a passion for IT. My journey began in 20
     <a href="https://t.me/b_adiI" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="http://www.instagram.com/b.ad_il" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /> </picture> 
+    <a href="http://www.instagram.com/b.ad_il" target="_blank" rel="noreferrer">
+      <img src="https://i.ibb.co/THj2sxD/free-icon-instagram-3955024.png" width="40" height="40" alt="instagram" />
     </a>
 </div>
 
