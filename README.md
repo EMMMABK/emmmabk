@@ -6,7 +6,21 @@ Full stack developer
 
 ### 👨‍💻: About me:
 
-I'm a budding Full Stack Developer with a passion for IT, the journey commenced in 2020 with Python studies at IT & Business College Ala Too. Backend Development became a focal point, exploring frameworks, databases, and GitHub. Deepening Python expertise continued through Algoritmika's Python courses in 2021. May to August 2021 saw intensive Django immersion during a college bootcamp, achieving mastery in backend development. Interest then shifted to Front-end Development in September 2021, mastering HTML/CSS at Codify and venturing into JavaScript. July 2022 marked the successful completion of a JavaScript course, encompassing React and JavaScript fundamentals. Currently engaged in job hunting while providing Tech Support at Codify, aiding newcomers in web development, especially in web design. Additionally, backend component development for college projects remains a priority. Dedicated to perpetual learning, eagerly anticipating growth as a Full Stack Developer, crafting innovative solutions in technology's ever-evolving realm.
+A passionate journey into the world of IT commenced in 2020, when I embarked on my Python studies at the esteemed IT & Business College Ala Too. From the outset, backend development captured my fascination, igniting a journey of exploration into frameworks, databases, and version control through platforms like GitHub. 🚀
+
+My commitment to mastering Python only deepened with time, as I delved into advanced concepts and problem-solving strategies through Algoritmika's Python courses in 2021. However, it was during an intensive Django immersion bootcamp from May to August 2021 that I truly honed my skills, achieving mastery in the intricacies of backend development. 💻
+
+As the winds of curiosity shifted in September 2021, I eagerly embraced the world of Front-end Development, honing my craft in HTML/CSS through rigorous training at Codify. Venturing further into the realm of interactivity, I embraced JavaScript, mastering its intricacies with dedication and enthusiasm. 🎨
+
+July 2022 marked a significant milestone in my journey as I successfully completed a comprehensive JavaScript course, which encompassed essential frameworks like React alongside fundamental JavaScript concepts. This achievement further solidified my understanding and proficiency in modern web development technologies. 🌟
+
+Currently, I am immersed in the exciting phase of job hunting while contributing my expertise to Codify as a Tech Support member. In this role, I extend a helping hand to newcomers in the web development arena, particularly in the realm of web design, fostering an environment of collaboration and growth. 💼
+
+Moreover, I maintain a steadfast commitment to backend component development for college projects, ensuring that my skills remain sharp and relevant in today's dynamic tech landscape. 🔧
+
+In 2023, my thirst for knowledge led me to embark on a new adventure as I began studying SalesForce Administration and Development at the college. This addition to my skill set not only broadens my expertise but also underscores my unwavering dedication to perpetual learning and growth as a Full Stack Developer. 📚
+
+With a fervent passion for innovation and a relentless pursuit of excellence, I eagerly anticipate the opportunities and challenges that lie ahead, confident in my ability to craft innovative solutions in technology's ever-evolving realm. 🌱
 
 <p align="center">
  <img width="600" src="icons/snake.svg" alt="snake"/>
