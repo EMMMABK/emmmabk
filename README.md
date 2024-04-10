@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil Bikiev.
 ====================================================================================================================================
 
-Full stack developer
+Full stack developer 
+SalesForce Developer/Admin
 --------------------
 
 ### 👨‍💻: About me:
@@ -29,7 +30,7 @@ With a fervent passion for innovation and a relentless pursuit of excellence, I 
 *   🌍  I'm based in Kyrgyzstan/Bishkek
 *   ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/Telegram%20%20-8A2BE2)](https://t.me/b_adiI)[![Email Badge](https://img.shields.io/badge/b2adilg-@gmail.com-blue)](mailto:b2adilg@gmail.com)
 
-*   🧠  I'm learning Node.JS
+*   🧠  I'm learning Salesforce
 
 ### 🤝 Social media:
 <div id="badges">
