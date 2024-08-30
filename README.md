@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil Bikiev.
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil Bikiev.
 ====================================================================================================================================
 
 Full stack developer 
@@ -30,7 +30,7 @@ With a fervent passion for innovation and a relentless pursuit of excellence, I 
 *   🌍  I'm based in Kyrgyzstan/Bishkek
 *   ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/Telegram%20%20-8A2BE2)](https://t.me/b_adiI)[![Email Badge](https://img.shields.io/badge/b2adilg-@gmail.com-blue)](mailto:b2adilg@gmail.com)
 
-*   🧠  I'm learning Salesforce
+*   🧠  I'm learning CyberSecurity
 
 ### 🤝 Social media:
 <div id="badges">
@@ -39,9 +39,6 @@ With a fervent passion for innovation and a relentless pursuit of excellence, I 
     </a>
     <a href="https://t.me/b_adiI" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="http://www.instagram.com/b.ad_il" target="_blank" rel="noreferrer">
-      <img src="https://i.ibb.co/THj2sxD/free-icon-instagram-3955024.png" width="40" height="40" alt="instagram" />
     </a>
 </div>
 
