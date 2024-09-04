@@ -21,7 +21,7 @@ Moreover, I maintain a steadfast commitment to backend component development for
 
 In 2023, my thirst for knowledge led me to embark on a new adventure as I began studying Salesforce Administration and Development at Ala-Too College. This addition to my skill set not only broadens my expertise but also underscores my unwavering dedication to perpetual learning and growth as a Full Stack Developer. I completed my studies in June 2024, marking a significant milestone in my journey.
 
-With a fervent passion for innovation and a relentless pursuit of excellence, I eagerly anticipate the opportunities and challenges that lie ahead, confident in my ability to craft innovative solutions in technology's ever-evolving realm. 📚🌱
+Now, I am continuing my academic journey by pursuing a Bachelor's Degree at International Ala-Too University. With a fervent passion for innovation and a relentless pursuit of excellence, I eagerly anticipate the opportunities and challenges that lie ahead, confident in my ability to craft innovative solutions in technology's ever-evolving realm. 📚 📚🌱
 
 <p align="center">
  <img width="600" src="icons/snake.svg" alt="snake"/>
