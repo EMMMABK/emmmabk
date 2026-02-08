@@ -19,6 +19,14 @@ As a student, I’m continuously improving my skills by building pet projects, s
 I enjoy solving problems, learning how systems work internally, and turning ideas into working backend solutions.
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=My+code+is+like+raw+cursed+energy;Like+Yuji+Itadori+landing+Black+Flash+at+will;I+can+channel+it+whenever+I+want.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=100&lines=My+code+is+like+raw+cursed+energy;Like+Yuji+Itadori+landing+Black+Flash+at+will;I+can+channel+it+whenever+I+want.">
+    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=100&lines=My+code+is+like+raw+cursed+energy;Like+Yuji+Itadori+landing+Black+Flash+at+will;I+can+channel+it+whenever+I+want.">
+  </picture>
+</p>
+
+<p align="center">
  <img width="600" src="icons/snake.svg" alt="snake"/>
 </p>
 
